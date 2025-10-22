@@ -39,7 +39,7 @@ function Register() {
           </Typography>
           <Box>
             <Typography fontWeight="medium" mb={1}>
-              Description
+              Description (test)
             </Typography>
             {/* CUSTOMIZE: the registration page description */}
             <Stack>
